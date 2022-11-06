@@ -1,0 +1,5 @@
+conda create -y -n vaga_de_dados python=3.8.13
+conda activate vaga_de_dados
+conda install -y jupyterlab
+conda install -y -c conda-forge pandas
+conda install -y -c conda-forge selenium
